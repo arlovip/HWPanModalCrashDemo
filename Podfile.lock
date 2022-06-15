@@ -1,0 +1,16 @@
+PODS:
+  - HWPanModal (0.9.2)
+
+DEPENDENCIES:
+  - HWPanModal
+
+SPEC REPOS:
+  trunk:
+    - HWPanModal
+
+SPEC CHECKSUMS:
+  HWPanModal: d109a0ad99757a0cbf650f3e2a2f364e4e5ab8b1
+
+PODFILE CHECKSUM: 78d7bd84d29c84eb5c7fa8352aa422088eb6ca4e
+
+COCOAPODS: 1.11.3
